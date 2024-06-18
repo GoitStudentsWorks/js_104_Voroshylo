@@ -42,7 +42,6 @@ text-transform: uppercase;
 .projects-img {
   width: 100%;
 border-radius: 16px;
-margin-bottom: 12px;
 transition: transform 0.3s ease-in-out;
 }
 
@@ -211,11 +210,7 @@ letter-spacing: 0.5px;
 margin-bottom: unset;
 max-width: 547px;
 }
-.div-btn-visit{
 
-}
-.projects-btn {
-}
 .btn-load-more{
   width: 165px;
   height: 56px;
@@ -232,20 +227,12 @@ max-width: 547px;
 .projects-ul {
   gap: 80px;
 }
-.projects-li {
-}
-.projects-img {
-}
-.div-projects-h-p {
-}
-.projects-h {
-}
+
 .projects-p {
   max-width: 763px;
 
 }
-.projects-btn {
-}
+
 .btn-load-more{
 
   margin-top: 80px;
