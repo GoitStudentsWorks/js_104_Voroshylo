@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/projeckt-js-group-02/",
+    "build": "vite build --base=/js_104_Voroshylo/",
     "preview": "vite preview"
   },
   "devDependencies": {
